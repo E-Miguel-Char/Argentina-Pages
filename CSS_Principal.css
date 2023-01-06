@@ -1,0 +1,65 @@
+corpo {
+    cor de fundo :  rgb ( 34 ,  34 ,  34 );
+    cor : branco;
+    font-family :  'poppins' ;
+    largura máxima :  1200 px ;
+    margem : 0 automático;
+    preenchimento :  15 px ;
+}
+
+cabeçalho {
+    exibição : flexível;
+    flex-direction : linha;
+    justificar-conteúdo : espaço-entre;
+    itens de alinhamento : centro;
+}
+
+# título {
+    flex-direction : coluna;
+    altura da linha :  10 px ;
+}
+
+li {
+    exibição : bloco em linha;
+    margem :  20 px ;
+}
+
+h1 {
+    peso da fonte :  200 ;
+}
+
+principal {
+    exibição : flexível;
+    flex-direction : linha;
+    margem superior :  50 px ;
+}
+
+h2 {
+    tamanho da fonte :  56 px ;
+    altura da linha :  10 px ;
+    font-family : poppinsmedium;
+}
+
+extensão {
+    cor :  rgb ( 63 ,  17 ,  230 );
+}
+
+p {
+    margem inferior :  200 px ;
+    altura da linha :  20 px ;
+    largura máxima :  500 px ;
+    font-family : poppinslight;
+}
+
+img {
+    largura : 500 pixels
+}
+
+um {
+    cor : branco;
+}
+
+a : passe o mouse {
+    cor :  rgb ( 252 ,  153 ,  4 );
+    transição :  0,3 s ;
+}
